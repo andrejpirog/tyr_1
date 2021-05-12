@@ -1,0 +1,50 @@
+
+	h1
+	{
+	font:20px Arial;
+	font-weight:bold;
+	margin-left:18%;
+	margin-right:20%;	
+	}
+	a
+	{
+	text-decoration:none;	
+	}	
+	#conteiner	
+	{		
+	display: inline-block;
+	position: relative;	
+	width:auto; /*ширина*/
+	height:justify; /*высота*/
+	margin-right:20%;
+	margin-left:15%;
+	margin-bottom:0px ; /*отступ сверху*/
+	}
+	#conteiner img	
+	{		
+	float:right;	
+	position: relative;
+	display: inline-block;	
+	width:25%; /*ширина*/
+	 /*высота*/
+	margin:0px auto; /*отступ сверху*/
+	border:2px solid blue;	
+	}
+	#conteiner p	
+	{		
+	float:left;
+
+	position: relative;
+	display: inline-block;
+	font: 16px Arial;
+	color:black;
+	width:72%; /*ширина*/
+	height:justify; /*высота*/
+	margin:0px auto; /*отступ сверху*/
+	}		
+	img:hover
+	{
+	opacity:0.8;
+	}
+	
+	
